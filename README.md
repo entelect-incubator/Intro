@@ -12,3 +12,9 @@ Comic Stock Ltd. decided to partner up with a South African Software Solutions C
 Comic Stock Ltd. has throughout its history placed great value on training and decided to kick off a training initiative. The training will be available to all staff members who wish to participate. In Software Engineering it is very important to understand the fundamentals. This is why this training program will cover everything, starting from the fundamentals, all the way to advanced concepts.
 
 The training will be focused on actual problems that Software Developers have faced at Comic Stock Ltd._ and how to prevent these problems from occurring over and over again, and how to implement best practices on every team.
+
+# High Level Requirement
+
+ - Stock Management
+ - Customer Website
+
