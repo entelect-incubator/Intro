@@ -1,7 +1,7 @@
 # Comic Stock Ltd.
 ![Comic Stock Ltd.](https://i.ibb.co/L0v6fKb/comic-stock.png)
 
-Established in 1950, Comic Stock Ltd. has been selling quality and rare comic books for many decades. In 2001, Comic Stock Ltd, decided to expand their national footprint, to become the number one comic book provider in South Africa. In 2008, they expanded to 20 stores nationwide.
+Established in 2001, Comic Stock Ltd. has been selling quality and rare comic books for many decades. In 2001, Comic Stock Ltd, decided to expand their national footprint, to become the number one comic book provider in South Africa. In 2008, they expanded to 20 stores nationwide.
 
 Comic Stock Ltd. decided that they would like to trade internationally due to their overwhelming success in the local market. Despite their best efforts, business internationally was not as successful as their local business, due to differences in how the consumer market purchased goods and services.
 
