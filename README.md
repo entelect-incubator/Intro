@@ -2,7 +2,7 @@
 
 ![Pezza - While it's hot](https://i.ibb.co/fCFK3Qw/pezza-logo.png)
 
-Established in 2001, Pezza has been a small family run restaurant for many generations. In 2001, they decided to expand and open more branches, to share their amazing family secret pizza's with more people.
+Established in 1940, Pezza has been a small family run restaurant for many generations. In 2020, they decided to expand and open more branches, to share their amazing family secret pizza's with more people.
 
 To make this a reality they decided that going digital will be there number one priority. They partnered up with a South African Software Solutions Company to help them to go digital. They realized that they needed to build back office systems, and allow customers to order pizza's online. Part of the agreement was that some of the family members would assist in the developement and maintenance of the systems. 
 
