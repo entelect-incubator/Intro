@@ -16,4 +16,5 @@ The training will be focused on actual problems that Software Developers have fa
 
  - Stock Management
  - Customer Website
+ - Notifications
 
