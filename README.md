@@ -1,6 +1,6 @@
 # Pezza - While it's hot
 
-![Pezza - While it's hot](https://i.ibb.co/fCFK3Qw/pezza-logo.png)
+![Pezza - While it's hot](https://github.com/entelect-incubator/.NET/raw/master/Phase%207/pezza-logo.png)
 
 Established in 1940, Pezza has been a small family run restaurant for many generations. In 2020, they decided to expand and open more branches, to share their amazing family secret pizza's with more people.
 
