@@ -14,7 +14,7 @@ The training will be focused on actual problems that Software Developers have fa
 
 # High Level Requirement
 
- - Stock Management
- - Customer Website
+ - Pizza Stock
+ - Pizza Ordering
  - Notifications
 
