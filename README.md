@@ -2,19 +2,20 @@
 
 ![Pezza - While it's hot](https://github.com/entelect-incubator/.NET/raw/master/Phase%207/pezza-logo.png)
 
-Established in 1940, Pezza has been a small family run restaurant for many generations. In 2020, they decided to expand and open more branches, to share their amazing family secret pizza's with more people.
+Established in 1940, Pezza has built a strong reputation as a small, family-run restaurant spanning multiple generations. Recognizing the growth potential, they decided in 2020 to expand their operations and open additional branches, aiming to share their exceptional family secret pizzas with a wider audience.
 
-To make this a reality they decided that going digital will be there number one priority. They partnered up with a South African Software Solutions Company to help them to go digital. They realized that they needed to build back office systems, and allow customers to order pizza's online. Part of the agreement was that some of the family members would assist in the developement and maintenance of the systems. 
+To successfully realize this vision, Pezza made digital transformation their top priority. They forged a partnership with a reputable South African Software Solutions Company to guide them through this digital transition. It became evident that the development of robust back-office systems and the implementation of an online pizza-ordering system were critical components of this partnership. As part of the agreement, certain family members committed themselves to assisting in the development and maintenance of these systems.
 
 # Introduction
 
-Pezza has throughout its history placed great value on training and decided to kick off a training initiative as part of their new venture into digital. The training will be available to all family members who wish to participate in helping their family business. In Software Engineering it is very important to understand the fundamentals. This is why this training program will cover everything, starting from the fundamentals, all the way to advanced concepts.
+Pezza, having always placed great importance on training, has launched a comprehensive training initiative in conjunction with their venture into the digital realm. This training opportunity is open to all family members who are interested in actively contributing to the success of their family business. In the field of Software Engineering, a thorough understanding of fundamental principles is paramount. Thus, this training program encompasses a comprehensive curriculum, ranging from foundational concepts to advanced techniques.
 
-The training will be focused on actual problems that Software Developers have faced at and how to prevent these problems from occurring over and over again, and how to implement best practices on every team.
+The training program is specifically designed to address real-world challenges encountered by Software Developers and provide strategies to avoid recurring issues. Additionally, it emphasizes the implementation of best practices across all teams.
 
-# High Level Requirement
+# High-Level Requirement
 
- - Pizza Stock
- - Pizza Ordering
- - Notifications
+ - Pizza Maintenance: Ensure the consistent quality and maintenance of pizzas.
+ - Online Pizza Ordering: Enable customers to conveniently place pizza orders through the online platform.
+ - Email Notification: Automatically send customers an email confirmation of their pizza order.
 
+By fulfilling these high-level requirements, Pezza aims to leverage digital technologies effectively while preserving the essence of their renowned family business.
