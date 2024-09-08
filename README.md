@@ -1,21 +1,19 @@
-# Pezza - While it's hot
+![E List - Getting things done](./logo.png)
 
-![Pezza - While it's hot](https://github.com/entelect-incubator/.NET/raw/master/Phase%207/pezza-logo.png)
+Established in 1940, the Entelectuals family has built a strong tradition of getting things done, passing down their knowledge and methods through multiple generations. Recognizing the potential to share their productivity secrets, they decided in 2020 to create a todo app, aiming to help a wider audience achieve more in their daily lives.
 
-Established in 1940, Pezza has built a strong reputation as a small, family-run restaurant spanning multiple generations. Recognizing the growth potential, they decided in 2020 to expand their operations and open additional branches, aiming to share their exceptional family secret pizzas with a wider audience.
-
-To successfully realize this vision, Pezza made digital transformation their top priority. They forged a partnership with a reputable South African Software Solutions Company to guide them through this digital transition. It became evident that the development of robust back-office systems and the implementation of an online pizza-ordering system were critical components of this partnership. As part of the agreement, certain family members committed themselves to assisting in the development and maintenance of these systems.
+To successfully realize this vision, the Entelectuals family made digital transformation their top priority. They partnered with a reputable South African Software Solutions Company to guide them through this digital journey. It became evident that developing a robust app with intuitive task management features was crucial. As part of the agreement, certain family members committed themselves to assisting in the development and maintenance of the app.
 
 # Introduction
 
-Pezza, having always placed great importance on training, has launched a comprehensive training initiative in conjunction with their venture into the digital realm. This training opportunity is open to all family members who are interested in actively contributing to the success of their family business. In the field of Software Engineering, a thorough understanding of fundamental principles is paramount. Thus, this training program encompasses a comprehensive curriculum, ranging from foundational concepts to advanced techniques.
+The Entelectuals family, always emphasizing the importance of organization and efficiency, has launched a comprehensive training initiative alongside their venture into the digital world. This training opportunity is open to all family members who are interested in actively contributing to the success of their family’s new project. In the field of Software Engineering, a thorough understanding of fundamental principles is essential. Therefore, this training program covers a wide-ranging curriculum, from foundational concepts to advanced techniques.
 
-The training program is specifically designed to address real-world challenges encountered by Software Developers and provide strategies to avoid recurring issues. Additionally, it emphasizes the implementation of best practices across all teams.
+The training program is specifically designed to address real-world challenges encountered by Software Developers and to provide strategies for avoiding recurring issues. Additionally, it emphasizes the implementation of best practices across all teams.
 
 # High-Level Requirement
 
- - Pizza Maintenance: Ensure the consistent quality and maintenance of pizzas.
- - Online Pizza Ordering: Enable customers to conveniently place pizza orders through the online platform.
- - Email Notification: Automatically send customers an email confirmation of their pizza order.
+-   Task Management: Ensure the consistent quality and functionality of task creation and management.
+-   User-Friendly Interface: Enable users to easily organize and track their tasks through the app.
+-   Notification System: Automatically send users reminders and updates about their tasks.
 
-By fulfilling these high-level requirements, Pezza aims to leverage digital technologies effectively while preserving the essence of their renowned family business.
+By fulfilling these high-level requirements, the Entelectuals family aims to leverage digital technologies effectively while preserving the essence of their renowned family ethos of getting things done.
